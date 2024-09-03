@@ -16,3 +16,16 @@ if( subject.toUpperCase === book.toUpperCase){
 }
 
 // Remove White Space From string
+const drinks = '  water';
+console.log('Remove White Space Both Side:', drinks.trim())
+
+//Comparing Example:
+
+let drink = '  water';
+let lequid =" water ";
+
+if (drink.trim === lequid.trim){ // user trim for remove white space
+    console.log("I drink water");
+} else{
+    console.log("i Can not drink water")
+}
