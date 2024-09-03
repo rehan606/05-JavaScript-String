@@ -45,8 +45,25 @@ console.log(slicePart)
 
 //Split -(Multiple string to array)
 
-let friendStr = 'Rehan, Hassan, Jahed';
-let friend = friendStr.split('|');
+let friendStr = "Rehan, Hassan, Jahed";
+let friend = friendStr.split(',');
 console.log("split string to array is=", friend)
 
 //OutPut : split string to array is= [ 'Rehan, Hassan, Jahed' ]
+
+//-------------------------------------------------------------------------
+
+//Join String - Array to multiple String
+let realFriend = ['Rehan', 'Hassan', 'Jahid'];
+console.log("Join String =", realFriend.join('|')) //JOin separator ( , | - )
+
+//Output : Join String = Rehan|Hassan|Jahid
+
+
+//-------------------------------------------------------------------------
+
+
+//-------------------------------------------------------------------------
+
+
+//-------------------------------------------------------------------------
