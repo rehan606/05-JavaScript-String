@@ -1,4 +1,4 @@
-<h2> JavaScript String </h2>
+<h1 align="center" >05 JavaScript String </h1>
 
 <h3> Table Of Content: </h3>
 <ul>
