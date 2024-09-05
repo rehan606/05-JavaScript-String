@@ -5,6 +5,7 @@
 <hr>
 
 <h3> Table Of Content: </h3>
+<br>
 
 <ul>
   <li> Upper Case </li>
